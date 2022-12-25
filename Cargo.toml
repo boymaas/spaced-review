@@ -2,6 +2,14 @@
 name = "spaced-review"
 version = "0.1.0"
 edition = "2021"
+authors = ["Boy Maas <boy.maas@gmail.com>"]
+description = "A minimalistic terminal-based vocabulary learner or flashcard tool, using a spaced repetition algorithm."
+homepage = "https://github.com/boymaas/spaced-review/"
+repository = "https://github.com/boymaas/spaced-review"
+documentation = "https://docs.rs/spaced-review"
+categories = ["command-line-utilities","visualization","terminal"]
+keywords = ["flashcards","education", "learning", "spaced-repetition"]
+license = "GPL-3.0+"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
